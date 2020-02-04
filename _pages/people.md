@@ -1,3 +1,10 @@
+---
+layout: archive
+permalink: /people/
+title: "People"
+author_profile: true
+---
+
 # People
 
 * Igor Steinmacher
