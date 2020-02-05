@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ## Researchers
-* **Igor Steinmacher** - Lab Principal Investigator
-* **Marco A. Gerosa** - Co-Investigator
-* **Igor S. Wiese** - Post Doctoral Scholar
+* **[Igor Steinmacher](www.github.com/igorsteinmacher)** - Lab Principal Investigator ([personal page](www.igor.pro.br))
+* **Marco A. Gerosa** - Co-Investigator ([personal page](www.marcoagerosa.com))
+* **[Igor S. Wiese](www.github.com/igorwiese)** - Post Doctoral Scholar ([personal page](www.igorwiese.com))
 
 ## Graduate Students
 * **Bianca Trinkenreich** - Ph.D. Student
