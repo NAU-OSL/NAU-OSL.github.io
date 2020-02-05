@@ -15,6 +15,7 @@ author_profile: true
 * **Fabio Santos** - Ph.D. Student
 * **Ana Paula Chaves** - Ph.D. Candidate
 * **Mairieli Wessel** - Ph.D. Candidate - Brazil
+* **Felipe Fronchetti** - M.Sc. Student - Brazil
 
 ### Undergraduate Students
 * **Bianca Altman** 
