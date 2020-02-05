@@ -5,6 +5,8 @@ title: "Projects"
 author_profile: true
 ---
 
+The main focus of OSL is to study and create tools that better support newcomers to join Open Source, focusing on the sustainability of projects
+
 ## [FLOSScoach](www.gitlab.com/flosscoach/flosscoach)
 FLOSSCOACH is a portal aimed to help newcomers get into *Free/Libre Open Source Software* (FLOSS). 
 FLOSScoach helps by providing a way to organize the information, 
