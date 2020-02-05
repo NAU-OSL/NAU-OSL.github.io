@@ -5,19 +5,19 @@ title: "People"
 author_profile: true
 ---
 
-### Researchers
+## Researchers
 * **Igor Steinmacher** - Lab Principal Investigator
 * **Marco A. Gerosa** - Co-Investigator
 * **Igor S. Wiese** - Post Doctoral Scholar
 
-### Graduate Students
+## Graduate Students
 * **Bianca Trinkenreich** - Ph.D. Student
 * **Fabio Santos** - Ph.D. Student
 * **Ana Paula Chaves** - Ph.D. Candidate
 * **Mairieli Wessel** - Ph.D. Candidate - Brazil
 * **Felipe Fronchetti** - M.Sc. Student - Brazil
 
-### Undergraduate Students
+## Undergraduate Students
 * **Bianca Altman** 
 * **Matthew Briody**
 * **Champ Foronda**
