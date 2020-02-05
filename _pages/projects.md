@@ -28,3 +28,9 @@ product include:
 * Displaying data in easy to read data and graphics for users to interpret.
 * Filtering through mined repositories.
 * Allowing administrators to manage repositories mined as well as user accounts.
+
+## [Gender-inclusive open source](http://gendermag.org/gm_OSS.html)
+
+This is a research project aims to investigate how open source software tools and technologies have gender biases tied with diverse problem-solving styles, and how to remove any such biases.
+
+Our goal is to develop guidelines and propose tools to make OSS infrastructure (forges, issue trackers, etc.) less biased towards specific cognitive styles. 
