@@ -5,7 +5,7 @@ title: "Projects"
 author_profile: true
 ---
 
-## [FLOSScoach](www.github.com/NAU-OSL/flosscoach)
+## [FLOSScoach](www.gitlab.com/flosscoach/flosscoach)
 FLOSSCOACH is a portal aimed to help newcomers get into *Free/Libre Open Source Software* (FLOSS). 
 FLOSScoach helps by providing a way to organize the information, 
 benefiting newcomers to avoid or overcome the most common barriers they face according to the research literature. 
@@ -17,3 +17,14 @@ foruns and messages where you can exchange relevant information about OSS with n
 
 You can use FLOSScoach by accessing [www.flosscoach.com](http://www.flosscoach.com): 
 create an account and join our community! Contact us for help!
+
+
+## [GitOSSum](www.github.com/NAU-OSL/gitOSSum)
+Git-OSS-um is a  system for getting newcomers to open source started on choosing a
+good first repository in which to make a contribution. Some of the key highlights of this
+product include:
+
+* Mining data for specific repositories directly from GitHub.
+* Displaying data in easy to read data and graphics for users to interpret.
+* Filtering through mined repositories.
+* Allowing administrators to manage repositories mined as well as user accounts.
