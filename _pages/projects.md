@@ -5,7 +5,7 @@ title: "Projects"
 author_profile: true
 ---
 
-##[FLOSScoach](www.github.com/NAU-OSL/flosscoach)
+## [FLOSScoach](www.github.com/NAU-OSL/flosscoach)
 FLOSSCOACH is a portal aimed to help newcomers get into *Free/Libre Open Source Software* (FLOSS). 
 FLOSScoach helps by providing a way to organize the information, 
 benefiting newcomers to avoid or overcome the most common barriers they face according to the research literature. 
